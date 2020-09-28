@@ -1,1 +1,1 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="r8PdQ8Hdx1}s.ZLWTG4x" x="20" y="20"/><block type="device_forever" id="xk+4]kyJZ746uJg6.b)q" x="225" y="20"/></xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="08IgjmQ;#YM8@Zj%8mn~">Hungryness</variable></variables><block type="pxt-on-start" id="1Bn.0(Wl}m..Qu9Ve))=" x="155" y="144"/><block type="device_forever" id="3^.AYy{P8,[Y^`_g;hFe" x="383" y="140"/></xml>
